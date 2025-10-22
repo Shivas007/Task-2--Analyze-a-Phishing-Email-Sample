@@ -1,0 +1,15 @@
+# raw_email.eml (sample)
+From: "SBI Bank" <support@bank-secure.com>
+To: user@example.com
+Subject: Urgent: Immediate KYC Update Required — Account Will Be Blocked
+Date: Mon, 20 Oct 2025 09:20:11 +0530
+
+Dear Customer,
+
+We detected unusual activity on your SBI account and require an immediate KYC re-validation to avoid temporary account suspension. To protect your funds, we need you to verify your identity now.
+
+Please click the link below within 24 hours to update your KYC details:
+https://sbi-security-update.com/verify?uid=ABCD1234
+
+Regards,
+SBI Internet Banking Support Team
